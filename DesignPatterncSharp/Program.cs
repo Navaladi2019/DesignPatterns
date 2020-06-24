@@ -6,7 +6,9 @@ namespace DesignPatterncSharp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            #region Singleton
+
+            #endregion
         }
     }
 }
