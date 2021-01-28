@@ -23,12 +23,11 @@ namespace DesignPatterncSharp.CreationalDesignPattern.SingletonDesignPattern
             get
             {
                 //since initializing the instance obj in variable initialization C# itself handles thread safety.
+
                 //lock (obj)
                 //{
                 //    if (instance == null)
                 //        instance = new Singleton();
-
-
                 //}
 
                 return instance.Value;
