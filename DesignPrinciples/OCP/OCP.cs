@@ -62,3 +62,6 @@ namespace DesignPrinciples.OCP
     }
 
 }
+
+// suppose if i have DAO storing to db, but tomorrow i want to store it to file system also , 
+//then touching the existing working class is wrong, so i can create a interface with save method and have it consumed by both filesave and db saver
