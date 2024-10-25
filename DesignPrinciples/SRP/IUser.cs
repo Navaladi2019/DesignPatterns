@@ -24,3 +24,6 @@ namespace DesignPrinciples.SRP
         bool SendEmail(string EmailContent);
     }
 }
+
+
+//suppose if i have invoice class , only calculation amount is invoice responsibility and not saving to database and printing the invoide
