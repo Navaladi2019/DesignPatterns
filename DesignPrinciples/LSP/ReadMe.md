@@ -7,6 +7,7 @@
 
 - Liskov Substitution principle states that base class should be entirely replaced by derived class and 
  no new exception should be raised by  the subtype.
+- Sub class should extend the capability of the parent and not narrow it down.
 
 - Since if we implement employee as base class for contact employee then we are violating error 
  so arrangement is made with interface,abstract and implementation.
