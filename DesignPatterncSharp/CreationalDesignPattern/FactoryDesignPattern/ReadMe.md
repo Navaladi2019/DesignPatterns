@@ -1,4 +1,5 @@
-﻿#Factory Design Pattern:
+﻿
+#Factory Design Pattern:
 
 	Define an interface for creating an object, but let the sub classes decide which 
 	class to instantiate. The factory method lets a class defer instantiation it uses to sub classses
