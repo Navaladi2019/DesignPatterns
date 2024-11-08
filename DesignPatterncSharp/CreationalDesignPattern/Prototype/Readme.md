@@ -1,0 +1,1 @@
+ - inherits an interface and implements a clone mothod

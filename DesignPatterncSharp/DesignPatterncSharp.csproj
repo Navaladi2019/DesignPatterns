@@ -5,4 +5,12 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="Structural\Bridge\ReadMe.md" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Include="Structural\Bridge\ReadMe.md" />
+  </ItemGroup>
+
 </Project>
