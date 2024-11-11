@@ -8,3 +8,7 @@
 - Proxy is a structural design pattern that lets you provide a substitute or placeholder for another object. A proxy controls access to the original object, allowing you to perform something either before or after the request gets through to the original object.
 
 
+
+![image](https://github.com/user-attachments/assets/3e2f7858-3504-4b78-a73f-dd967f964586)
+![image](https://github.com/user-attachments/assets/7974ee5e-bfe5-4595-8261-c49db38bdae1)
+![image](https://github.com/user-attachments/assets/265c29b9-ce3b-4fab-8351-12b776c73c7d)
