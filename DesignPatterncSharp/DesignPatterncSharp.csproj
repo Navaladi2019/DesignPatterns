@@ -13,4 +13,8 @@
     <Compile Include="Structural\Bridge\ReadMe.md" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Structural\facade\" />
+  </ItemGroup>
+
 </Project>
